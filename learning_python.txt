@@ -1,0 +1,3 @@
+In Python you can create variables and assign values to them.
+In Python you can use if statements for conditional logic.
+In Python you can define functions to reuse blocks of code.
